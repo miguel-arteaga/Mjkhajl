@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mjkhajl
 - 👀 I’m interested in technology, music, gaming, soccer.
-- 🌱 I’m currently learning MongoDB, AWS
+- 🌱 I’m currently learning MongoDB, NodeJS, AWS
 - 💞️ I’m looking to collaborate on anything
 - 📫 luismiguel.arteaga@gmail.com
 
