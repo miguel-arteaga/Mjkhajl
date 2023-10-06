@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mjkhajl
+- 👋 Hi, I’m @miguel-arteaga
 - 👀 I’m interested in technology, music, gaming, soccer.
 - 🌱 I’m currently learning MongoDB, NodeJS, AWS
 - 💞️ I’m looking to collaborate on anything
